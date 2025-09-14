@@ -52,21 +52,11 @@ Each **branch** represents a specific **week** of the course:
 - `week-2-starter` / `week-2-finished`
 - ... and so on.
 
-Switch to the relevant branch to access the files for that particular week:
-  
-``` bash
-git checkout week-1-starter
-```
+Switch to the relevant branch to access the files for that particular week.
 
-or
+## Folder Layout (per project in the branch)
 
-``` bash
-git checkout week-1-finished
-```
-
-## Folder Layout (per branch)
-
-Typical branch structure:
+Typical folder structure:
 
     /public        # Static assets
     /src           # Source code
