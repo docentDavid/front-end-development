@@ -14,10 +14,10 @@ I you have any questions, please let me know!!
 
 - Take a look at the initial HTML website
 - Create a default Next.js project (with TypeScript & Tailwind)
-- Browse therough the folders and pages and explain what they do
-- Create a Next.js version of the initials HTML website
-- Create components
-- Create a favicon and alter default info
+- Take a tour of the folders and pages, and define the purpose for each one
+- Create a Next.js version of the initial HTML website
+- Create components for a Header and Footer
+- Create a favicon and alter default metadata
 
 ------------------------------------------------------------------------
 
