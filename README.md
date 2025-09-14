@@ -33,7 +33,7 @@ npm install
 Start the development server to preview the project in your browser:
 
 ``` bash
-npm start
+npm run dev
 ```
 
 or, if the project uses a different script (such as `npm run dev`), run
