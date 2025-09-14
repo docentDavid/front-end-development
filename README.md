@@ -10,7 +10,7 @@ I you have any questions, please let me know!!
 
 ------------------------------------------------------------------------
 
-## ✏️ Alterations Before the Lesson
+## Alterations Before the Lesson
 
 For this week, I altered the project as follows:
 
@@ -18,7 +18,7 @@ For this week, I altered the project as follows:
 
 ------------------------------------------------------------------------
 
-## ✏️ Alterations After the Lesson
+## Alterations After the Lesson
 
 For this week, I altered the project as follows:
 
@@ -27,7 +27,7 @@ For this week, I altered the project as follows:
 
 ------------------------------------------------------------------------
 
-## 📜 License
+## License
 
 This project is intended for educational purposes.
 Refer to the course or instructor for any specific licensing details.
