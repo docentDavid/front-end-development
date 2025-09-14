@@ -10,13 +10,19 @@ I you have any questions, please let me know!!
 
 ------------------------------------------------------------------------
 
-## 
+## Requirements
+
+We gonna use data from an API. There are many free to use API's, try one that feeds your needs.
+Today we want to show some products and we use the following API **[https://fakestoreapi.com/products"](Fake Store)**
+
+------------------------------------------------------------------------
 
 ## Alterations Before the Lesson
 
 For this week, I altered the project as follows:
 
 -   Added and removed images in the **public** folder
+-   Added the **not-found.jsx** page
 
 ------------------------------------------------------------------------
 
