@@ -1,4 +1,4 @@
-# Week 1 - Front End Development
+# Week 2 - Front End Development
 
 In this branch you will find all the files for **week 1**.\
 Please download the **starter files** to create the final product for
@@ -10,14 +10,20 @@ I you have any questions, please let me know!!
 
 ------------------------------------------------------------------------
 
+## ✏️ Alterations Before the Lesson
+
+For this week, I altered the project as follows:
+
+-   Added and removed images in the **public** folder
+
+------------------------------------------------------------------------
+
 ## ✏️ Alterations After the Lesson
 
 For this week, I altered the project as follows:
 
--   Changed the **favicon**
--   Changed the **title** and the **description** in the layout.tsx page
--   Add a **border color** (border-gray-300) for all the **"boxes"** and the borders
-    in the **header** and **footer**
+-   No final version available
+-   None so far...
 
 ------------------------------------------------------------------------
 
