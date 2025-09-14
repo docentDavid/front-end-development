@@ -1,4 +1,4 @@
-# Front End Development
+# Front End Developmend
 
 This repository contains all the weekly exercises and projects for the
 **Front End Development** course.\
