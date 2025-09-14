@@ -18,6 +18,16 @@ This is the data we are gonna use <a href="https://fakestoreapi.com/products/" t
 
 ------------------------------------------------------------------------
 
+## What We Are Going To Do
+
+-  Take a look at the changes I made
+-  What's an error page and why create one?
+-   Alter the product page with **static data**
+-   Get the data from an **API**
+-   Use a **Card component** to be more flexibla
+
+------------------------------------------------------------------------
+
 ## Alterations Before the Lesson
 
 For this week, I altered the project as follows:
