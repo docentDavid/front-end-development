@@ -13,7 +13,7 @@ I you have any questions, please let me know!!
 ## Requirements
 
 We gonna use data from an API. There are many free to use API's, try one that feeds your needs.
-Today we want to show some products and we use the following API **[https://fakestoreapi.com/products"](Fake Store)**
+Today we want to show some products and we use the following API **[Fake Store](https://fakestoreapi.com/products)**
 
 ------------------------------------------------------------------------
 
