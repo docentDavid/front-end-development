@@ -14,7 +14,7 @@ I you have any questions, please let me know!!
 
 We gonna use data from an API. There are many free to use API's, select one that feeds your needs.\
 Today we want to show some products and we use the following API: <a href="https://fakestoreapi.com/" target="_blank">Fake Store</a>.\
-This is the data we are gonna use <a href="https://fakestoreapi.com/products)" target="_blank">Fake Store - Products</a>.
+This is the data we are gonna use <a href="https://fakestoreapi.com/products/)" target="_blank">Fake Store - Products</a>.
 
 ------------------------------------------------------------------------
 
