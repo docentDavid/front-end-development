@@ -24,6 +24,7 @@ For this week, I altered the project as follows:
 
 -   Added and removed images in the **public** folder
 -   Added the **not-found.jsx** page
+-   Added the **products_example** page to show you the result
 
 ------------------------------------------------------------------------
 
