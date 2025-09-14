@@ -1,4 +1,4 @@
-# Week 1 -- Front End Development
+# Week 1 - Front End Development
 
 In this branch you will find all the files for **week 1**.\
 Please download the **starter files** to create the final product for
