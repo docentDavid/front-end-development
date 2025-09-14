@@ -22,8 +22,7 @@ For this week, I altered the project as follows:
 
 For this week, I altered the project as follows:
 
--   No final version available
--   None so far...
+-   None so far. (No final version available yet).
 
 ------------------------------------------------------------------------
 
