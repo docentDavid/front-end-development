@@ -14,8 +14,8 @@ I you have any questions, please let me know!!
 
 For this week, I altered the project as follows:
 
--   Changed the **favicon**\
--   Changed the **title** and the **description**\ in the layout.tsx page
+-   Changed the **favicon**
+-   Changed the **title** and the **description** in the layout.tsx page
 -   Add a **border color** (border-gray-300) for all the **"boxes"** and the borders
     in the **header** and **footer**
 
@@ -23,7 +23,7 @@ For this week, I altered the project as follows:
 
 ## 📜 License
 
-This project is intended for educational purposes.\
+This project is intended for educational purposes.
 Refer to the course or instructor for any specific licensing details.
 
 ### Author
