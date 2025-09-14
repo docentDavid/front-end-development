@@ -10,6 +10,8 @@ I you have any questions, please let me know!!
 
 ------------------------------------------------------------------------
 
+## 
+
 ## Alterations Before the Lesson
 
 For this week, I altered the project as follows:
