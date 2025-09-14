@@ -13,7 +13,7 @@ I you have any questions, please let me know!!
 ## What We Are Going To Do
 
 - Take a look at the initial HTML website
-- Create a default Next.js project
+- Create a default Next.js project (with TypeScript & Tailwind)
 - Browse therough the folders and pages and explain what they do
 - Create a Next.js version of the initials HTML website
 - Create components
