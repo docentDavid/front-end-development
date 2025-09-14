@@ -41,13 +41,13 @@ the appropriate command.
 
 ## 🏷 Branch Structure
 
-Each **branch** represents a specific **week** of the course: -
-`week-1-starter` / `week-1-finished` - `week-2-starter` /
-`week-2-finished` - ... and so on.
+Each **branch** represents a specific **week** of the course: 
+- `week-1-starter` / `week-1-finished`
+- `week-2-starter` / `week-2-finished`
+- ... and so on.
 
-👉 Switch to the relevant branch to access the files for that particular
-week:
-
+👉 Switch to the relevant branch to access the files for that particular week:
+  
 ``` bash
 git checkout week-1-starter
 ```
@@ -93,4 +93,4 @@ Refer to the course or instructor for any specific licensing details.
 
 ### Author
 
-Front End Development Team / Course Maintainers
+Front End Development Team / David Schol
