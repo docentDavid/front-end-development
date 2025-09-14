@@ -9,7 +9,7 @@ week.
 
 Follow these steps to set up the project locally:
 
-### Clone the Repository
+### 1. Clone the Repository
 
 Use **git** to clone this repository to your local machine:
 
@@ -19,6 +19,12 @@ cd <repository-folder>
 ```
 
 > Replace `<repository-url>` with the actual URL of this repo.
+
+### 2. Download the branch (or whole Repository) - Use this one!!
+
+- Download the branch of the specific week.
+- Unzip the starter folder
+- Open the folder in your favorite IDE (VS Code or Cursor)
 
 ### Install Dependencies
 
