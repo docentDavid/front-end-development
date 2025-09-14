@@ -5,11 +5,11 @@ This repository contains all the weekly exercises and projects for the
 Each branch holds both the **starter** and **finished** files for each
 week.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up the project locally:
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 Use **git** to clone this repository to your local machine:
 
@@ -20,7 +20,7 @@ cd <repository-folder>
 
 > Replace `<repository-url>` with the actual URL of this repo.
 
-### 2️⃣ Install Dependencies
+### Install Dependencies
 
 Install all required packages using **npm**:
 
@@ -28,7 +28,7 @@ Install all required packages using **npm**:
 npm install
 ```
 
-### 3️⃣ Run the Project
+### Run the Project
 
 Start the development server to preview the project in your browser:
 
@@ -39,14 +39,14 @@ npm run dev
 or, if the project uses a different script (such as `npm run dev`), run
 the appropriate command.
 
-## 🏷 Branch Structure
+## Branch Structure
 
 Each **branch** represents a specific **week** of the course: 
 - `week-1-starter` / `week-1-finished`
 - `week-2-starter` / `week-2-finished`
 - ... and so on.
 
-👉 Switch to the relevant branch to access the files for that particular week:
+Switch to the relevant branch to access the files for that particular week:
   
 ``` bash
 git checkout week-1-starter
@@ -58,7 +58,7 @@ or
 git checkout week-1-finished
 ```
 
-## 📁 Folder Layout (per branch)
+## Folder Layout (per branch)
 
 Typical branch structure:
 
@@ -67,7 +67,7 @@ Typical branch structure:
     package.json   # Project configuration and dependencies
     README.md      # This file
 
-## 🧰 Requirements
+## Requirements
 
 -   **Node.js** (latest LTS recommended)
 -   **npm** (comes with Node.js)
@@ -79,14 +79,14 @@ node -v
 npm -v
 ```
 
-## 💡 Notes
+## Notes
 
 -   Make sure to install dependencies after switching branches, as
     different weeks might introduce new packages.
 -   Check the branch's own instructions (if any) for week-specific tasks
     or scripts.
 
-## 📜 License
+## License
 
 This project is intended for educational purposes.\
 Refer to the course or instructor for any specific licensing details.
