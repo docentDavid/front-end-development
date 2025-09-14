@@ -3,7 +3,7 @@
 In this branch you will find all the files for **week 1**.\
 Please download the **starter files** to create the final product for
 this week together with me (in class).\
-You can always compare your product with mine and see if something went
+You can always compare your product with mine ** finished files** and see if something went
 wrong.
 
 I you have any questions, please let me know!!
