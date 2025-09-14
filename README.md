@@ -10,6 +10,17 @@ I you have any questions, please let me know!!
 
 ------------------------------------------------------------------------
 
+## What We Are Going To Do
+
+- Take a look at the initial HTML website
+- Create a default Next.js project
+- Browse therough the folders and pages and explain what they do
+- Create a Next.js version of the initials HTML website
+- Create components
+- Create a favicon and alter default info
+
+------------------------------------------------------------------------
+
 ## Alterations After the Lesson
 
 For this week, I altered the project as follows:
