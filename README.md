@@ -1,10 +1,6 @@
 # Week 2 - Front End Development
 
-In this branch you will find all the files for **week 2**.\
-Please download the **starter files** to create the final product for
-this week together with me (in class).\
-You can always compare your product with mine and see if something went
-wrong.
+In this branch you will find all the files for **week 3**.\
 
 I you have any questions, please let me know!!
 
@@ -12,19 +8,19 @@ I you have any questions, please let me know!!
 
 ## Requirements
 
-We gonna use data from an API. There are many free to use API's, select one that feeds your needs.\
-Today we want to show some products and we use the following API: <a href="https://fakestoreapi.com/" target="_blank">Fake Store</a>.\
-This is the data we are gonna use <a href="https://fakestoreapi.com/products/" target="_blank">Fake Store - Products</a>.
+We gonna place our project on GitHub. Thius is a version control system.\ Y
+ou can work on it yourself, but also with your (product-) group.\
+After we put your product on GitHub, you host your repo on Vercel\
+
+Make sure you have already a [https://github.com/](GitHub) account.
 
 ------------------------------------------------------------------------
 
 ## What We Are Going To Do
 
--  Take a look at the changes I made
--  What's an error page and why create one?
--   Alter the product page with **static data**
--   Get the data from an **API**
--   Use a **Card component** to be more flexibla
+- Get a project from a repo
+-  Place your project on a GitHub repo
+-  Host your project on Vercel
 
 ------------------------------------------------------------------------
 
@@ -32,9 +28,7 @@ This is the data we are gonna use <a href="https://fakestoreapi.com/products/" t
 
 For this week, I altered the project as follows:
 
--   Added and removed images in the **public** folder
--   Added the **not-found.jsx** page
--   Added the **products_example** page to show you the result
+-   Placed the finished files in this branch of this repo
 
 ------------------------------------------------------------------------
 
@@ -42,11 +36,7 @@ For this week, I altered the project as follows:
 
 For this week, I altered the project as follows:
 
--   I created a types folder in the root of the project and added a product.ts file with the data types\
-    (So the types are only declared once. Less change of errors, no redundancy)
--   The data types are imported in the products page and product detail page
--   Some markup (CSS -> Tailwind) is refined to make the content on the pages look better\
-    (Please play around and alter the code, CSS / Tailwind or API data or all, to get used to Next.js coding)
+-   Nothing yet
 
 ------------------------------------------------------------------------
 
