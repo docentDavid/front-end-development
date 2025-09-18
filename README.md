@@ -43,9 +43,10 @@ For this week, I altered the project as follows:
 For this week, I altered the project as follows:
 
 -   I created a types folder in the root of the project and added a product.ts file with the data types\
-    (So the types are only declared once. Less change of errors, no redundancy.
+    (So the types are only declared once. Less change of errors, no redundancy)
 -   The data types are imported in the products page and product detail page
--   Some markup (CSS -> Tailwind) is refined to make the content on the pages look better
+-   Some markup (CSS -> Tailwind) is refined to make the content on the pages look better\
+    (Please play around and alter the code, CSS / Tailwind or API data or all, to get used to Next.js coding)
 
 ------------------------------------------------------------------------
 
