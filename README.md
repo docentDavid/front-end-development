@@ -42,7 +42,7 @@ For this week, I altered the project as follows:
 
 For this week, I altered the project as follows:
 
--   I created a types folder in the root of the project and added a product.ts file with the data types
+-   I created a types folder in the root of the project and added a product.ts file with the data types\
     (So the types are only declared once. Less change of errors, no redundancy.
 -   The data types are imported in the products page and product detail page
 -   Some markup (CSS -> Tailwind) is refined to make the content on the pages look better
