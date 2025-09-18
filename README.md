@@ -8,11 +8,11 @@ I you have any questions, please let me know!!
 
 ## Requirements
 
-We gonna place our project on GitHub. Thius is a version control system.
+We gonna place our project on GitHub. This is a version control system.
 You can work on it yourself, but also with your (product-) group.
-After we put your product on GitHub, you host your repo on Vercel.
+After you put your product on GitHub, you host your product on Vercel.
 
-Make sure you already have a <a href-"https://github.com/" target="_blank">GitHub</a> account.
+Make sure you already have a <a href="https://github.com/" target="_blank">GitHub</a> account.
 
 ------------------------------------------------------------------------
 
