@@ -1,4 +1,4 @@
-# Week 2 - Front End Development
+# Week 3 - Front End Development
 
 In this branch you will find all the files for **week 3**.\
 
@@ -12,7 +12,7 @@ We gonna place our project on GitHub. Thius is a version control system.\ Y
 ou can work on it yourself, but also with your (product-) group.\
 After we put your product on GitHub, you host your repo on Vercel\
 
-Make sure you have already a (https://github.com/)[GitHub] account.
+Make sure you already have a <a href-"https://github.com/" target="_blank">GitHub</a> account.
 
 ------------------------------------------------------------------------
 
