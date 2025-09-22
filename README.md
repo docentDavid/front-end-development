@@ -18,7 +18,7 @@ Make sure you already have a <a href="https://github.com/" target="_blank">GitHu
 
 ## What We Are Going To Do
 
-- Get a project from a repo
+- Get a project from a repo. Use this <a href="https://github.com/docentDavid/front-end-development-week3" target="_blank">Front End Development - Week 3</a>
 -  Place your project on a GitHub repo
 -  Host your project on Vercel
 
