@@ -8,7 +8,7 @@ I you have any questions, please let me know!!
 
 ## Exercise: Next.js & Supabase
 
-In this exercise you will work with Next.js and Supabase. The goal is to
+In this exercise you will work with Next.js and Supabase (It is an open-source backend-as-a-service (BaaS) platform that uses PostgreSQL). The goal is to
 create a small web application in which you can display and manage
 products.
 
