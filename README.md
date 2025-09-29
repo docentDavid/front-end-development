@@ -6,9 +6,7 @@ I you have any questions, please let me know!!
 
 ------------------------------------------------------------------------
 
-# Exercise: Next.js & Supabase
-
-## General
+## Exercise: Next.js & Supabase
 
 In this exercise you will work with Next.js and Supabase. The goal is to
 create a small web application in which you can display and manage
@@ -17,10 +15,14 @@ products.
 ### 1. Starting Point
 
 Set up a new project or continue working in the existing ACME project.
+(You can download the code from the branch - week-3).
 Fetch the product data from the Fake Store API and insert it into the
 products table in Supabase. Retrieve the following data from the API:
 id, title, price, description & category. (Leave out the images for
 now). After importing, you will have a populated database to work with.
+
+If this doesn't work, I included the SQL code whioch you can use to create
+the table and insert the data. 
 
 ### 2. From Fetch to Axios
 
