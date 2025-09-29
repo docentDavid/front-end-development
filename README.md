@@ -1,90 +1,77 @@
-# Front End Development
+# Week 4 - Front End Development
 
-This repository contains all the weekly exercises and projects for the
-**Front End Development** course.\
-Each branch holds both the **starter** and **finished** files for each
-week.
+In this branch you will find all the files for **week 4**.
 
-## Getting Started
+I you have any questions, please let me know!!
 
-Follow these steps to set up the project locally:
+------------------------------------------------------------------------
 
-### Method 1: Download the branch - Use this one!!
+# Exercise: Next.js & Supabase
 
-- Download the branch of the specific week.
-- Unzip the starter folder
-- Open the folder in your favorite IDE (VS Code or Cursor)
+## General
 
-### Method 2: Clone the Repository
+In this exercise you will work with Next.js and Supabase. The goal is to
+create a small web application in which you can display and manage
+products.
 
-Use **git** to clone this repository to your local machine:
+### 1. Starting Point
 
-``` bash
-git clone <repository-url>
-cd <repository-folder>
-```
+Set up a new project or continue working in the existing ACME project.
+Fetch the product data from the Fake Store API and insert it into the
+products table in Supabase. Retrieve the following data from the API:
+id, title, price, description & category. (Leave out the images for
+now). After importing, you will have a populated database to work with.
 
-> Replace `<repository-url>` with the actual URL of this repo.
+### 2. From Fetch to Axios
 
-### Install Dependencies
+In the previous session, you fetched products using fetch. Now switch to
+axios and implement the full CRUD functionality: - **Create:** add new
+products - **Read:** retrieve and display products - **Update:** modify
+existing products - **Delete:** remove products
 
-Install all required packages using **npm**:
+### 3. Use of AI
 
-``` bash
-npm install
-```
+You may use AI tools, for example to request a step-by-step plan or to
+get ideas. Important: do not let AI build everything for you, as you
+must understand how the code works.
 
-### Run the Project
+### 4. Think of the User
 
-Start the development server to preview the project in your browser:
+Design your application with the end user in mind: - **Visitor side:**
+an attractive product overview with a clear detail page. (We have
+already built this). - **Admin side:** an overview with the ability to
+modify, add and delete products. (We are building this now and can add
+authentication functionality later).
 
-``` bash
-npm run dev
-```
+Tip: Keep the interface logical and user-friendly. Always ask yourself:
+What works well for the user?
 
-or, if the project uses a different script (such as `npm run dev`), run
-the appropriate command.
+With this assignment, you combine front-end development (Next.js) with
+back-end/database skills (Supabase) and learn how to set up a complete
+web application with CRUD functionality. Good luck!
 
-## Branch Structure
 
-Each **branch** represents a specific **week** of the course: 
-- `week-1-starter` / `week-1-finished`
-- `week-2-starter` / `week-2-finished`
-- ... and so on.
+------------------------------------------------------------------------
 
-Switch to the relevant branch to access the files for that particular week.
+## Alterations Before the Lesson
 
-## Folder Layout (per project in the branch)
+For this week, I altered the project as follows:
 
-Typical folder structure:
+-   Placed the finished files in this branch of this repo
 
-    /public        # Static assets
-    /src           # Source code
-    package.json   # Project configuration and dependencies
-    README.md      # This file
+------------------------------------------------------------------------
 
-## Requirements
+## Alterations After the Lesson
 
--   **Node.js** (latest LTS recommended)
--   **npm** (comes with Node.js)
+For this week, I altered the project as follows:
 
-You can verify installation with:
+-   Nothing yet
 
-``` bash
-node -v
-npm -v
-```
-
-## Notes
-
--   Make sure to install dependencies after switching branches, as
-    different weeks might introduce new packages.
--   Check the branch's own instructions (if any) for week-specific tasks
-    or scripts.
+------------------------------------------------------------------------
 
 ## License
 
-This project is intended for educational purposes.\
+This project is intended for educational purposes.
 Refer to the course or instructor for any specific licensing details.
 
 ### Author
