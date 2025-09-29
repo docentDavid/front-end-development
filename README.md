@@ -21,8 +21,8 @@ products table in Supabase. Retrieve the following data from the API:
 id, title, price, description & category. (Leave out the images for
 now). After importing, you will have a populated database to work with.
 
-If this doesn't work, I included the SQL code whioch you can use to create
-the table and insert the data. 
+If this doesn't work, I included the SQL code (*products.sql), 
+whioch you can use to create the table and insert the data. 
 
 ### 2. From Fetch to Axios
 
