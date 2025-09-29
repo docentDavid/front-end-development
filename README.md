@@ -44,9 +44,11 @@ must understand how the code works.
 
 ### 4. Think of the User
 
-Design your application with the end user in mind: - **Visitor side:**
+Design your application with the end user in mind: 
+- **Visitor side:**
 an attractive product overview with a clear detail page. (We have
-already built this). - **Admin side:** an overview with the ability to
+already built this).
+- **Admin side:** an overview with the ability to
 modify, add and delete products. (We are building this now and can add
 authentication functionality later).
 
