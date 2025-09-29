@@ -27,7 +27,7 @@ whioch you can use to create the table and insert the data.
 
 ### 2. From Fetch to Axios
 
-In the previous session, you fetched products using fetch. This works fine if you just want to get data from an API-endpoint. Now switch to
+In the previous session, you fetched products using fetch. This works fine when you just want to fetch data from an API-endpoint. Now switch to
 axios and implement the full CRUD functionality: - **Create:** add new
 products - **Read:** retrieve and display products - **Update:** modify
 existing products - **Delete:** remove products
