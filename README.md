@@ -15,7 +15,7 @@ products.
 ### 1. Starting Point
 
 Set up a new project or continue working in the existing ACME project.
-(You can download the code week-4-starter.zip).
+(You can download: week-4-starter.zip).
 Fetch the product data from the Fake Store API and insert it into the
 products table in Supabase. Retrieve the following data from the API:
 id, title, price, description & category. (Leave out the images for
